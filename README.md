@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2>
+  Developer Jiwoo! 👋
+</h2>
+
+I'm currently learning web development.
+</br>
+I like to learn new skills for better performance.
+</br>
+My ultimate goal is to make earth more sustainable by improving efficiency using new technologies. 🌎
+
+![heyjyu's github stats](https://github-readme-stats.vercel.app/api?username=heyjyu&show_icons=true)
 
 <!--
 **heyjyu/heyjyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
