@@ -1,12 +1,10 @@
 <h2>
-  Developer Jiwoo! 👋
+  개발자 최지우 입니다! 👋
 </h2>
 
-I'm currently learning web development.
-</br>
-I like to learn new skills for better performance.
-</br>
-My ultimate goal is to make earth more sustainable by improving efficiency using new technologies. 🌎
+개발 언어와 환경은 도구일 뿐이라고 생각하며 
+<br />
+어떤 환경에서도 주어진 목표를 달성하기 위해 최선을 다하는 개발자입니다 :)
 
 ![heyjyu's github stats](https://github-readme-stats.vercel.app/api?username=heyjyu&show_icons=true)
 
